@@ -1,3 +1,13 @@
-p{
-    color: red;
+img {
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 0;
+}
+
+input.form {
+    margin-top: 45px;
+    width: 270px;
+    height: 40px;
+    margin-left: 40px;
+    margin-right: 20px;
 }
